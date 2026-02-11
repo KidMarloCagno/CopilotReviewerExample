@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+
+target/
+build/
+
+# Ignore tasks.json from other projects
+tasks.json
